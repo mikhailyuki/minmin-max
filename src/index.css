@@ -13,12 +13,53 @@ ol, ul {
     display: table;
 }
 
+
+
 .status {
     margin-bottom: 10px;
 }
 
+.change-player-first-turn-button {
+    background: white;
+    border: 2px solid #999;
+    text-align: center;
+    height: 80px;
+    width: 120px;
+}
+
+.game-start-or-reset-button {
+    background: white;
+    border: 2px solid #999;
+    text-align: center;
+    height: 80px;
+    width: 120px;
+}
+
+.pass-button {
+    background: white;
+    border: 2px solid #999;
+    text-align: center;
+    height: 80px;
+    width: 120px;
+}
+
 .square {
-    background: #fff;
+    background: #ffffff;
+    border: 2px solid #999;
+    float: left;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 80px;
+    height: 80px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 80px;
+}
+
+.square-legal {
+    background: #f8f83c;
     border: 2px solid #999;
     float: left;
     font-size: 60px;
@@ -46,5 +87,5 @@ ol, ul {
 }
 
 .game-info {
-    margin-left: 40px;
+    width: 280px;
 }
