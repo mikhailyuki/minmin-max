@@ -1,6 +1,6 @@
 import React, {useContext, useMemo} from "react";
-import '../index.css';
-import {OthelloContext} from "../Contexts/OthelloContext";
+import '../../index.css';
+import {OthelloContext} from "../OthelloContext";
 
 // TODO コメントを書く
 

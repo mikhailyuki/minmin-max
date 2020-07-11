@@ -1,5 +1,5 @@
 import React from "react";
-import '../index.css';
+import '../../index.css';
 import {PlayerInfo} from "./PlayerInfo";
 import {GameStartOrResetButton} from "./GameStartOrResetButton";
 import {ChangePlayerFirstTurnButton} from "./ChangePlayerFirstTurnButton";

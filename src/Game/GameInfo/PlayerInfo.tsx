@@ -1,6 +1,6 @@
 import React, {useContext, useMemo} from "react";
-import {OthelloContext} from "../Contexts/OthelloContext";
-import {popCount} from "../Functions/OthelloLogic";
+import {OthelloContext} from "../OthelloContext";
+import {popCount} from "../OthelloLogic";
 
 // TODO コメントを書く
 

@@ -1,5 +1,5 @@
 import React, {useContext, useMemo} from "react";
-import {OthelloContext} from "../Contexts/OthelloContext";
+import {OthelloContext} from "../OthelloContext";
 
 // TODO コメントを書く
 

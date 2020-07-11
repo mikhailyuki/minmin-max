@@ -1,5 +1,5 @@
 import {createContext, useCallback, useState} from "react";
-import {getLegalHand, isEnd, isPass, reverseStone} from "../Functions/OthelloLogic";
+import {getLegalHand, isEnd, isPass, reverseStone} from "./OthelloLogic";
 
 // TODO コメントを書く
 type OthelloContextType = {
